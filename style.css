@@ -106,7 +106,7 @@ body {
 .card-info .Counts {
     font-size: 18px;
     font-weight: var(--bold);
-    color: black;
+    color: var(--very-dark-desaturated-blue);
 }
 
 /* Info-Status*/
